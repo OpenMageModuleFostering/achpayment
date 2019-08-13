@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/ACHpayment",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Ach payment",
+    "authors": [
+    {
+        "name": "jayakumar",
+        "email": "jayakumar@thylaksoft.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
