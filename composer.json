@@ -1,5 +1,5 @@
 {
-    "name": "OpenMageModuleFostering\/ACHpayment",
+    "name": "openmage-module-fostering\/achpayment",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
